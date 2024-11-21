@@ -66,7 +66,7 @@ Attribute information.
 The primary dataset used for this project is the 'sales _data.excel' file. These data points serve as the foundation for analyzing sales performance and formulating strategies to enhance profitability. 
 
 ### Data Cleaning
-In this report, I will outline the data cleaning process undertaken to prepare the dataset for analysis. The dataset, which contains sales information from various regions, required several steps to ensure accuracy and consistency. Below are the key actions taken to clean and organize the data effectively. 
+In this report, I outline the data cleaning process undertaken to prepare the dataset for analysis. The dataset, which contains sales information from various regions, required several steps to ensure accuracy and consistency. Below are the key actions taken to clean and organize the data effectively. 
 
 - Loaded the dataset into ms excel
 - Removed duplicates (none found): select data > click data tab > click  remove duplicates icon.
@@ -86,6 +86,7 @@ Exploratory Data Analysis (EDA)
 ### Insights
 
 In my profit maximization strategy report analysis, the result reveal a treasure of insights. The analysis results are summarized as follows; 
+
 
 ### Recommedations 
 Based on the analysis of the data provided, the following recommendations may be considered:
