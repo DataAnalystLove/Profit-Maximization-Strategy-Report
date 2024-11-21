@@ -45,6 +45,10 @@ From the analysis, the management wants to an executive summary of the follwing 
 4. Can we identify key customers who generate the most revenue and tailor strategies to retain and grow their business?
 5. Is there a seasonal trend in sales perfoemance, how can we adjust strategies to maximize profits during peak periods?
 
+![image](https://github.com/user-attachments/assets/e29aab71-d0fa-45a4-85d4-2f545fbb537b)
+
+
+
 Additionally, the analysis will investigate regional sales trends and determine which products the company should continue to invest in. 
 
 ## Data Description
